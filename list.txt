@@ -1,0 +1,11 @@
+hlist.txt
+list.txt
+TA
+wait
+wait.c
+wait.c.save
+wait.c.save.1
+wait.c.save.2
+week02_test
+week02_test.c
+2022. 05. 03. (화) 11:31:12 KST
